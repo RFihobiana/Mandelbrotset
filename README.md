@@ -15,7 +15,8 @@ If you run it on a computer, here some key it listen:
 - `o` : Zoom [O]ut
 - `+` / `-` : Increase/decrease image brightness
 - `Up` `Down` `Left` `Right` *arrows*: To scroll it
-
+- `Left Click`: Zoom in
+- `Mouse Drag`: Drag view
 
 # Web View
 
